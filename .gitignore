@@ -1,0 +1,6 @@
+# Banco de dados local (gerado automaticamente ao rodar o programa)
+financeiro.db
+
+# Python
+__pycache__/
+*.pyc
